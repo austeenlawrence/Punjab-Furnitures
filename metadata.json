@@ -1,0 +1,7 @@
+{
+  "name": "Punjab Furnitures",
+  "description": "Premium luxury furniture showroom in Saharanpur, UP featuring royal modern living, bedroom, dining, and custom handcrafted woodwork.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
